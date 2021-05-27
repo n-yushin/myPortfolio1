@@ -243,14 +243,14 @@ div.top_main > p {
 div.contents_parent_odd {
   display: block;
   background-color: #808080;
-  height: 200px;
+  height: auto;
   width: 100%;
   max-width: 100%;
 }
 div.contents_parent_even {
   display: block;
   background-color: #948f8f;
-  height: 200px;
+  height: auto;
   width: 100%;
   max-width: 100%;
 }
