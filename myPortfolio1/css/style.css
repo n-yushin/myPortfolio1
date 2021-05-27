@@ -272,9 +272,10 @@ li {
 div.contents_parent {
   display: block;
   background-color: #808080;
-  height: 600px;
-  /* width: 100%; */
+  min-height: 600px;
+  height:auto;
   max-width: 100%;
+
 }
 div.contents_child {
   margin-bottom: 5px;
